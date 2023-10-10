@@ -1,0 +1,7 @@
+﻿HU;Europe
+DE;Europe
+GB;Europe
+AU;Australia
+CA;North America
+FR;Europe
+US;North America
