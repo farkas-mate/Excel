@@ -1,0 +1,7 @@
+SQL database connection information
+
+Server: mate-test-sqlserver.database.windows.net
+Authentication type: SQL Login
+User: student
+Password: vx#34T6k*E12
+Database: TopBike
